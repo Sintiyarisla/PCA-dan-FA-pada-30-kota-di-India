@@ -1,7 +1,5 @@
-# PCA-dan-FA-pada-30-kota-di-India
+# Analisis Faktor dalam Perkembangan Smart City di India
 
-**Analisis Faktor dalam Perkembangan Smart City di India
-**
 Repositori ini berisi hasil analisis PCA (Principal Component Analysis) dan FA (Factor Analysis) terhadap perkembangan Smart City di 30 kota di India. Analisis ini bertujuan untuk mengidentifikasi faktor utama yang mempengaruhi perkembangan Smart City di wilayah tersebut.
 
 Hasil Analisis:
